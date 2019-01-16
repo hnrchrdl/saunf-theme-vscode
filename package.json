@@ -1,0 +1,54 @@
+{
+  "name": "saunf-theme",
+  "displayName": "saunf",
+  "description": "a handcrafted open source colourful theme. comes with dimmed background and an option for no italics. enjoy.",
+  "version": "0.1.0",
+  "publisher": "hnrchrdl",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnrchrdl/saunf-theme-vscode"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Indian",
+    "Night Theme",
+    "Coder",
+    "Hacker",
+    "Mint Green",
+    "Pastel",
+    "React",
+    "Angular",
+    "Vue"
+  ],
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#9AECDB",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "saunf.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "saunf",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saunf-theme.json"
+      },
+      {
+        "label": "saunf no italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saunf-theme-noitalic.json"
+      }
+    ]
+  }
+}
