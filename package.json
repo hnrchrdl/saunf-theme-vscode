@@ -12,15 +12,13 @@
   "keywords": [
     "Theme",
     "Dark Theme",
-    "Indian",
     "Night Theme",
-    "Coder",
-    "Hacker",
+    "Indian",
     "Mint Green",
     "Pastel",
-    "React",
-    "Angular",
-    "Vue"
+    "React Theme",
+    "Angular Theme",
+    "Vue Theme"
   ],
   "scripts": {
     "build": "vsce package",
@@ -45,9 +43,19 @@
         "path": "./themes/saunf-theme.json"
       },
       {
-        "label": "saunf no italic",
+        "label": "saunf noitalic",
         "uiTheme": "vs-dark",
         "path": "./themes/saunf-theme-noitalic.json"
+      },
+      {
+        "label": "saunf dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saunf-theme-dimmed.json"
+      },
+      {
+        "label": "saunf dimmed noitalic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saunf-theme-dimmed-noitalic.json"
       }
     ]
   }
