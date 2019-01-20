@@ -1,7 +1,7 @@
 {
-  "name": "saunf-theme",
-  "displayName": "saunf",
-  "description": "a handcrafted open source colourful theme. comes with dimmed background and an option for no italics. enjoy.",
+  "name": "saunf-theme-vscode",
+  "displayName": "saunf theme",
+  "description": "A colourful theme for vscode, handcrafted and opensource.",
   "version": "0.1.0",
   "publisher": "hnrchrdl",
   "license": "MIT",
