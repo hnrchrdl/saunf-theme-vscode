@@ -18,11 +18,6 @@ export class SearchComponent implements OnInit, OnDestroy {
     private route: ActivatedRoute
   ) {}
 
-const test = {
-  wtf: 'fsdfasf',
-  other: sessionStorage
-}
-
   ngOnInit() {
     this.sub = this.route.params.subscribe(params => {
       if (params['term']) {
