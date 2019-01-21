@@ -2,7 +2,7 @@
   "name": "saunf-theme-vscode",
   "displayName": "Saunf Theme",
   "description": "A dark and colourful theme for vscode, handcrafted and opensource.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "hnrchrdl",
   "license": "MIT",
   "repository": {
@@ -38,22 +38,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "saunf",
+        "label": "[sa'unf]",
         "uiTheme": "vs-dark",
         "path": "./themes/saunf-theme.json"
       },
       {
-        "label": "saunf noitalic",
+        "label": "[sa'unf] (noitalic)",
         "uiTheme": "vs-dark",
         "path": "./themes/saunf-theme-noitalic.json"
       },
       {
-        "label": "saunf dimmed",
+        "label": "[sa'unf] (dimmed)",
         "uiTheme": "vs-dark",
         "path": "./themes/saunf-theme-dimmed.json"
       },
       {
-        "label": "saunf dimmed noitalic",
+        "label": "[sa'unf] (noitalic, dimmed)",
         "uiTheme": "vs-dark",
         "path": "./themes/saunf-theme-dimmed-noitalic.json"
       }
