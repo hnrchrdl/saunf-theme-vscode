@@ -3,7 +3,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/hnrchrdl.saunf-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=hnrchrdl.understated-theme-vscode)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/hnrchrdl.saunf-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=hnrchrdl.understated-theme-vscode)
 
-A colourful theme for vscode, handcrafted and opensource. Comes with dimmed background and an option for no italics. Enjoy!
+A dark and colourful theme for vscode, handcrafted and opensource. Comes with dimmed background and an option for no italics. Enjoy!
 
 ## Screenshots
 ### Javascript

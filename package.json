@@ -1,8 +1,8 @@
 {
   "name": "saunf-theme-vscode",
-  "displayName": "saunf theme",
-  "description": "A colourful theme for vscode, handcrafted and opensource.",
-  "version": "0.1.0",
+  "displayName": "Saunf Theme",
+  "description": "A dark and colourful theme for vscode, handcrafted and opensource.",
+  "version": "0.1.1",
   "publisher": "hnrchrdl",
   "license": "MIT",
   "repository": {
@@ -25,7 +25,7 @@
     "publish": "vsce publish"
   },
   "galleryBanner": {
-    "color": "#9AECDB",
+    "color": "#212B35",
     "theme": "dark"
   },
   "engines": {
